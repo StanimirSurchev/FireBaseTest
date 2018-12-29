@@ -8,7 +8,7 @@ using Firebase.Database;
 
 public class scounte : MonoBehaviour {
 
-	public int count;
+	int count;
 	public Text countText;
 
 	// Use this for initialization
