@@ -38,8 +38,7 @@ public class scounte : MonoBehaviour {
 					// Do something with snapshot...
 					Debug.Log(snapshot);
 					countText.text = snapshot.Value.ToString();
-					//count = task.Result;
-					//SetCountText();
+
 				}
 			});
 	}
